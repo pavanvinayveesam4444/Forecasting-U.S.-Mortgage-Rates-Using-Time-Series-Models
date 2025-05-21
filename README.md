@@ -1,6 +1,4 @@
 # Forecasting-U.S.-Mortgage-Rates-Using-Time-Series-Models
-# Forecasting U.S. Mortgage Rates Using Time Series Models
-
 ##  Project Overview
 
 This project applies advanced Time Series Forecasting techniques to analyze and predict U.S. 30-year fixed mortgage rates using historical monthly data from 1971 to 2025. The goal is to develop accurate, interpretable models that capture trends and seasonal behavior in mortgage rates, aiding financial forecasting and economic planning.

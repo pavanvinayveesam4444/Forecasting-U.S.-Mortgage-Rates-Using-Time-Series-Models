@@ -3,7 +3,7 @@
 
 This project applies advanced Time Series Forecasting techniques to analyze and predict U.S. 30-year fixed mortgage rates using historical monthly data from 1971 to 2025. The goal is to develop accurate, interpretable models that capture trends and seasonal behavior in mortgage rates, aiding financial forecasting and economic planning.
 
-Using R and the `forecast` package, we implement the 8-step forecasting framework to explore multiple models and select the most accurate one based on RMSE, MAPE, and residual diagnostics. The final model selected was **Auto ARIMA**, which demonstrated robust forecasting performance.
+Using R and the `forecast` package, I implemented 8-step forecasting framework to explore multiple models and select the most accurate one based on RMSE, MAPE, and residual diagnostics. The final model selected was **Auto ARIMA**, which demonstrated robust forecasting performance.
 
 ---
 

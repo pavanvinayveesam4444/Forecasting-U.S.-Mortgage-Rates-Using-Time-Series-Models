@@ -71,7 +71,7 @@ The techniques demonstrated here can be reused across other economic indicators 
 
 ---
 
-## 📄 References
+##  References
 
 - [Macrotrends: 30-Year Fixed Mortgage Rate Chart](https://www.macrotrends.net/2604/30-year-fixed-mortgage-rate-chart)  
 - Hyndman & Athanasopoulos – *Forecasting: Principles and Practice*  

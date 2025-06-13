@@ -19,7 +19,7 @@ This project was designed to:
 
 - Forecast mortgage rate trends using historical data  
 - Evaluate and compare statistical models for time series forecasting  
-- Build an Auto ARIMA model and validate it with real-world performance metrics  
+- Build an Auto ARIMA model and validate it with real-world performance metrics
 
 ---
 

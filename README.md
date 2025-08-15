@@ -17,7 +17,7 @@ U.S. mortgage rates are key economic indicators, impacting homebuyers, lenders, 
 
 This project was designed to:
 
-- Forecast mortgage rate trends using historical data  
+- Forecast mortgage rate trends using historical data
 - Evaluate and compare statistical models for time series forecasting  
 - Build an Auto ARIMA model and validate it with real-world performance metrics
 
